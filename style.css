@@ -1,0 +1,64 @@
+
+h1{
+    color:#dc143d;
+   
+}
+
+*{
+color:#ff7f50;
+
+font-size:20px;
+font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+margin:0px;
+
+}
+
+
+
+.descriptions{
+    padding:20px;
+    border:10px solid #dc143d;
+    border-radius: 20px;
+}
+
+.menu{
+    display:flex;
+    justify-content: space-between;
+    background-color:#000000;
+    border:5px solid #ff7f50;
+    border-radius: 20px;
+    padding: 30px;
+ 
+    
+}
+
+.grid{
+
+
+
+display:flex;
+flex-wrap:wrap;
+
+border:10px solid #000000;
+border-radius: 20px;
+
+background-color:#7fffd4;
+
+margin:50px;
+
+
+
+}
+
+.origami{
+    border:1px solid #7fffd4;
+    
+    margin:50px;
+    padding:20px;   
+
+    width:310px;
+    font-family:fantasy;
+}
+
+
+
